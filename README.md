@@ -66,6 +66,7 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40" height="40"/>
+<img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="40"  height="40"/>
 </p>
 
 ---
